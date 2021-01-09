@@ -1,2 +1,2 @@
 # apollo-docker
-apolloconfig on arm64
+apolloconfig on arm64v8
